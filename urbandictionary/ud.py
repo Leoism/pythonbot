@@ -1,4 +1,3 @@
-import random
 import requests
 
 def cleanMarkup(text):
